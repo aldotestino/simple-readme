@@ -1,0 +1,24 @@
+{
+  "name": "simple-readme",
+  "version": "0.1.7",
+  "description": "Create a README.md file with a CLI tool!",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldotestino/simple-readme.git"
+  },
+  "keywords": [],
+  "author": "aldotestino",
+  "bugs": {
+    "url": "https://github.com/aldotestino/simple-readme/issues"
+  },
+  "homepage": "https://github.com/aldotestino/simple-readme#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "license": "MIT"
+}
